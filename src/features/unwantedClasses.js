@@ -2,7 +2,8 @@ const unwantedClasses = [
     'mirror',
     'live-stream-player_blur__7BhBE',
     'live-stream-player_upside-down__YvkE4',
-    'chat-message-default_shrink-ray__nGvpr'
+    'chat-message-default_shrink-ray__nGvpr',
+    'blind'
 ];
 
 export function unwantedClassesFeature() {

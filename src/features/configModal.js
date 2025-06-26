@@ -14,7 +14,10 @@ console.log('[Debug] AVAILABLE_THEMES array:', AVAILABLE_THEMES);
 const AVAILABLE_THEMES = [
   { label: 'Default', value: 'default' },
   { label: 'Chao Garden', value: 'chao' },
-  { label: 'Hacker', value: 'hacker' }
+  { label: 'Hacker', value: 'hacker' },
+  { label: 'Glow Fish', value: 'glowfish' },
+  { label: 'Season 2', value: 'season2' },
+  { label: 'E-Girl', value: 'egirl' }
 ];
 
 
