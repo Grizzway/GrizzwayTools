@@ -35,6 +35,7 @@ To ensure compatibility and consistent UX, themes must not alter the following:
 Use this format:
 ```js
 { label: 'Cool Blue', value: 'coolBlue' }
+```
 
 ## Building the Project Yourself for Testing
 
