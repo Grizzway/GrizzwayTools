@@ -35,3 +35,14 @@ To ensure compatibility and consistent UX, themes must not alter the following:
 Use this format:
 ```js
 { label: 'Cool Blue', value: 'coolBlue' }
+
+## Building the Project Yourself for Testing
+
+To test your custom theme, follow these steps:
+
+1. Clone the repository.
+2. Install all dependencies from the Node package.
+3. Make your changes and save the files.
+4. In the console, run `node build.js`.
+5. Use the file from the `dist` folder in Tampermonkey for testing.
+6. Refresh your site to see the changes.
