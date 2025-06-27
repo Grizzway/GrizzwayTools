@@ -14,6 +14,9 @@ hackerTheme.scripts = hackerScripts;
 import season2Theme from './season2/season2.js';
 import season2Scripts from './season2/scripts.js';
 season2Theme.scripts = season2Scripts;
+import season4Theme from './season4/season4.js';
+import season4Scripts from './season4/scripts.js';
+season4Theme.scripts = season4Scripts;
 
 
 const themes = {
@@ -23,6 +26,7 @@ const themes = {
   'glowfish': glowfishTheme,
   'hacker': hackerTheme,
   'season2': season2Theme,
+  'season4': season4Theme,
 
 };
 

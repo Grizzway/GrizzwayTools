@@ -17,6 +17,7 @@ const AVAILABLE_THEMES = [
   { label: 'Hacker', value: 'hacker' },
   { label: 'Glow Fish', value: 'glowfish' },
   { label: 'Season 2', value: 'season2' },
+  { label: 'Season 4', value: 'season4' },
   { label: 'E-Girl', value: 'egirl' }
 ];
 
